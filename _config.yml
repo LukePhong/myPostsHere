@@ -3,7 +3,7 @@ title: LukePhong's Blog
 SEOTitle: LukePhong's Blog
 header-img: img/demo-bg.png
 email: vivalalife@163.cm
-description: "XXX"
+description: "my blog for my thoughts & programming"
 keyword: "XXX"
 url: "???" # your host, for absolute URL
 baseurl: "" # for example, '/blog' if your blog hosted on 'host/blog'
@@ -14,8 +14,8 @@ future: true
 # SNS settings
 RSS: false
 weibo_username: 
-zhihu_username: 
-github_username: 
+zhihu_username: I.Lingon
+github_username: LukePhong
 twitter_username: 
 #facebook_username:  
 #linkedin_username:  firstname-lastname-idxxxx
@@ -74,8 +74,8 @@ ga_domain:
 
 # Sidebar settings
 sidebar: true # whether or not using Sidebar.
-sidebar-about-description: "XXXX"
-sidebar-avatar:  # use absolute URL, seeing it's used in both `/` and `/about/`
+sidebar-about-description: "An Idealist"
+sidebar-avatar: img/avatar-stars.png  # use absolute URL, seeing it's used in both `/` and `/about/`
 
 # Featured Tags
 featured-tags: true # whether or not using Feature-Tags
